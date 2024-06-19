@@ -9,6 +9,11 @@ public class Basiccode {
 		System.out.println("1st code in eclipse");
 	}
 	
+	public void pushingcode1() {
+		
+		System.out.println("Create 1 pushing code");
+		
+	}
 	
 	
 	
