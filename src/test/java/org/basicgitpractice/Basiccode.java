@@ -15,6 +15,7 @@ public class Basiccode {
 		
 	}
 	
+
 	
 	public void pushingcode2() {
 		
@@ -30,6 +31,12 @@ public class Basiccode {
 	}
 	
 	
+
+	public void craete1() {
+		
+		System.out.println("Create 1 ");
+		
+	}
 	
 	public static void main(String[] args) {
 		
