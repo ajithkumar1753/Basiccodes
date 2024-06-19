@@ -16,6 +16,20 @@ public class Basiccode {
 	}
 	
 	
+	public void pushingcode2() {
+		
+		System.out.println("Create 1 pushing code2");
+		
+	}
+	
+	
+	public void pushingcode3() {
+		
+		System.out.println("Create 1 pushing code3");
+		
+	}
+	
+	
 	
 	public static void main(String[] args) {
 		
